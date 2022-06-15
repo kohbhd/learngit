@@ -16,3 +16,9 @@ $ git commit -m "First commit"
 $ git reset HEAD~1
 # Remove the most recent commit
 # Commit again!
+
+git remote add origin https://github.com/kohbhd/learngit.git
+
+git branch -M main
+
+git push -u origin main
