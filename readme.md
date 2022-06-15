@@ -13,3 +13,6 @@ $ git status
 $ git commit -m "First commit"
 # The message in the " " is given so that the other users can read the message and see what changes you made
 
+$ git reset HEAD~1
+# Remove the most recent commit
+# Commit again!
